@@ -5,7 +5,7 @@
 source "https://rubygems.org/"
 
 
-gem "rake", "~>12.2", :group => [:development, :test]
+gem "rake", "~>13.1", :group => [:development, :test]
 gem "rake-compiler", "~>1.0", :group => [:development, :test]
 gem "minitest", "~>5.10", :group => [:development, :test]
 gem "hoe", "~>4.1", :group => [:development, :test]
